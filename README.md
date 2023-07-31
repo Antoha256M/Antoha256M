@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Antoha256M
 - 🖥️ I make datapacks and resourcepacks
 - 📫 You can reach me at...
-  - Discord: my tag is "amtoha256m";
+  - Discord: my tag is "antoha256m";
   - VK: url: "https://vk.com/antoha256m";
   - Telegram: Antoha256M
 

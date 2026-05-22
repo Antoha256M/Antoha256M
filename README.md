@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Antoha256M
 - 🖥️ I make datapacks and resourcepacks
 - 📫 You can reach me at...
-  - Discord: antoha256m;
+  - Discord: antoha256m
   - Telegram: Antoha256M
 
 <!---
